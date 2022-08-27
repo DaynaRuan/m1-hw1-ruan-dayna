@@ -1,6 +1,6 @@
 # My First Coding Assignment #
 
-![picture alt](../../tinabelcher.gif)
+![tinabelcher](../../tinabelcher.gif)
 
 ## About Me ##
 I'm a Graphic Designer originally from Fort Lauderdale, Florida. I love doing all things creative. In my spare time I like to try new things and binge watch the Office and Bob's Burgers. 
