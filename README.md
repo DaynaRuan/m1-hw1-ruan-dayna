@@ -1,6 +1,6 @@
 # My First Coding Assignment #
 
-![tina-belcher](https://user-images.githubusercontent.com/112026222/187050578-091c1e2f-e23d-4266-bf40-6d2efbd8749b.gif)
+![tinabelcher](https://user-images.githubusercontent.com/112026222/187050593-525ba417-40da-424a-b7c2-f78368e41f18.gif)
 
 ## About Me ##
 I'm a Graphic Designer originally from Fort Lauderdale, Florida. I love doing all things creative. In my spare time I like to try new things and binge watch the Office and Bob's Burgers. 
